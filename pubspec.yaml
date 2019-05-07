@@ -1,0 +1,28 @@
+name: timelog
+description: A log of how you spend your free time, aiming to improve productivity.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  charts_flutter: ^0.6.0
+  path_provider: ^0.5.0+1
+  random_color: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+  - family: Lato
+    fonts:
+    - asset: fonts/Lato-Regular.ttf
+    - asset: fonts/Lato-Bold.ttf
+      weight: 700
