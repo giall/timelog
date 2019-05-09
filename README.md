@@ -1,3 +1,9 @@
+<a href="https://flutter.dev/create">
+  <p align="center">
+    <img width="250" height="250" src="https://raw.githubusercontent.com/giall/timelog/master/images/flutter_create_badge.png">
+  </p>
+</a>
+
 # timelog
 
 A log of how you spend your time, aiming to increase productivity.
@@ -13,7 +19,7 @@ This was a submission to [Flutter Create](https://flutter.dev/create), a challen
 
 | Journal tab  | Summary tab |
 | ------------- | ------------- |
-| ![Journal tab](https://raw.githubusercontent.com/giall/timelog/master/screenshots/journal.png "Journal tab")  | ![Summary tab](https://raw.githubusercontent.com/giall/timelog/master/screenshots/summary.png "Summary tab")  |
+| ![Journal tab](https://raw.githubusercontent.com/giall/timelog/master/images/journal.png "Journal tab")  | ![Summary tab](https://raw.githubusercontent.com/giall/timelog/master/images/summary.png "Summary tab")  |
 
 ## Notes
 
